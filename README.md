@@ -1,6 +1,6 @@
 # Prefetch techniques demo
 
-React project to demonstarate Prefetching techniques to increase page speed
+React project to demonstrate Prefetching techniques to increase page speed
 [Live Demo](http://soorajchandran.me/prefetch-preload-demo/)
 
 ## Covers the following topics with a demo
